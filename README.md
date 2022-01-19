@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Front End Mento Solution](https://www.frontendmentor.io/solutions/frontend-mentor-stats-preview-card-component-solution-Y8PyVzP-K)
+- Solution URL: [Front End Mentor Solution](https://www.frontendmentor.io/solutions/frontend-mentor-stats-preview-card-component-solution-Y8PyVzP-K)
 - Live Site URL: [Hosted on Github](https://chris971991.github.io/Stats-Preview-Component-Card/)
 
 ### Built with
